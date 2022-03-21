@@ -1,0 +1,33 @@
+* {
+  margin: 0px;
+  background-color: rgb(238, 230, 220);
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: rgb(238, 230, 220);
+}
+.okk {
+  font-size: 20px;
+}
+input {
+  margin-top: 60px;
+  height: 30px;
+  width: 300px;
+  font-size: 20px;
+}
+button {
+  height: 30px;
+  margin-left: 18px;
+  border-radius: 40%;
+  font-weight: 700;
+}
+p {
+  font-size: 17px;
+}
+.result {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px #be3939;
+  margin-bottom: 45px;
+}
